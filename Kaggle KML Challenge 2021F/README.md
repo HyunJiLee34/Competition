@@ -7,6 +7,10 @@
 "Which panel is most likely to respond to the given online survey?". 
 The purpose of this ML competition is to develop a predictive model that can best solve this problem. A donated dataset was provided by PMI, a research and consulting company in Korea.
 
+### Project Report
+
+-----------------------
+
 1. Feature Engineering
 
 feature datasets는 **LGBM** 과 **DNN**에 대한 두 개의 데이터 세트로 나뉩니다.
