@@ -1,4 +1,4 @@
-# School_Competition
+# School Competition
 교내 컴페티션의 코드와 pdf를 업로드합니다
 
 |대회명|Public 순위|Private 순위|비고|
